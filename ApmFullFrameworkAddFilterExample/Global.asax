@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ApmFullFrameworkAddFilterExample.MvcApplication" Language="C#" %>
